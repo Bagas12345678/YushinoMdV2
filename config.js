@@ -80,28 +80,28 @@ const readMore = more.repeat(4001)
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ NO OWNER ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.owner = [
-['6281348106274', 'DaniXd', true],
-['6281251549899', 'DaniOfc', true]
+['6285892778812', 'BagasJB', true],
+['6285892778812', 'BagasJB', true]
 ]
 global.mods = []
 global.prems = []
-global.nomorbot = '6281352848936'
-global.nomorown = '6281251549899'
-global.nomorown1 = '6281251549899'
-global.nomorown2 = '6281348106274'
+global.nomorbot = '1(865)4015223'
+global.nomorown = '6285892778812'
+global.nomorown1 = '6285892778812'
+global.nomorown2 = '6285892778812'
 global.nomorwa = '0'
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ WM ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.readMore = readMore
-global.author = 'DaniXd'
-global.namebot = '​ DaniBotz'
-global.wm = '© DaniBotz Bye DaniXd'
+global.author = 'BagasJB'
+global.namebot = '​ bagasBotz'
+global.wm = '© BagasBotz Bye BagasJB'
 global.media = 'https://telegra.ph/file/5d45a3d1e12726d98c5e4.jpg'
-global.wm = 'DaniXd '
+global.wm = 'BagasJB '
 global.watermark = wm
-global.wm2 = 'DaniXd '
+global.wm2 = 'BagasJB '
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `T I M E : ${wktuwib}`
 global.titlebot = `𝑨𝒍𝒅𝒊 𝐗 𝑨𝒊𝒔𝒚𝒂𝒉`
@@ -110,8 +110,8 @@ global.stickauth = `© DaniBotz MD`
 global.week = `${week} ${date}`
 global.wibb = `${wktuwib}`
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ OWNER INFO ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.nameown1= 'DaniXd'
-global.nameown2 = 'DaniOfc'
+global.nameown1= 'BagasJB'
+global.nameown2 = 'BagasJB'
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA LINK ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 global.Linkgc = 'Bentar'
 global.lynk = 'https://lynk.id/hyuuraofc'
